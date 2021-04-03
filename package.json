@@ -1,0 +1,14 @@
+{
+  "name": "node_read_write_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handy-storage": "^2.1.6"
+  }
+}
